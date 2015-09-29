@@ -119,6 +119,10 @@ html {
     font-size: 26px;
     color: white;
 }
+.nav-menu ul li a:hover {
+    color: black;
+    background-color: white;
+}
 .jumbotron {
     background-image: url('http://img.pandawhale.com/151477-cat-walking-away-from-explosio-gClG.jpeg');
     background-repeat: no-repeat;
